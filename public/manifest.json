@@ -1,0 +1,9 @@
+{
+  "name": "Lumio (demo)",
+  "short_name": "Lumio",
+  "start_url": "/home",
+  "display": "standalone",
+  "background_color": "#0A0A0C",
+  "theme_color": "#0A0A0C",
+  "icons": []
+}
